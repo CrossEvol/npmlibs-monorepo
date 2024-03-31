@@ -1,3 +1,4 @@
 packages:
   - '_minimist'
+  - '_ts-pattern'
   - 'packages/*'
