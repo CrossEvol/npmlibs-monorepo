@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#4B184D",
+        "titleBar.activeBackground": "#68216C",
+        "titleBar.activeForeground": "#FDF8FD"
+    },
+    "cSpell.words": [
+        "tailwindcss"
+    ]
+}
