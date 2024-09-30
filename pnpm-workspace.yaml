@@ -1,5 +1,4 @@
 packages:
-  - '_dompurify'
-  - '_minimist'
-  - '_ts-pattern'
-  - 'packages/*'
+        - '_dompurify'
+        - '_minimist'
+        - '_ts-pattern'
