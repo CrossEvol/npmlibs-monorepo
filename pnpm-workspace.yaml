@@ -2,3 +2,4 @@ packages:
         - '_dompurify'
         - '_minimist'
         - '_ts-pattern'
+        - '_keyv'

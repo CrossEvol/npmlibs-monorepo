@@ -112,3 +112,4 @@ dist
 # build
 build/
 release/
+datebase.sqlite

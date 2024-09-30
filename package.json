@@ -4,14 +4,10 @@
   "description": "",
   "main": "index.js",
   "workspaces": [
-    "client",
-    "server"
+    "frontend"
   ],
   "scripts": {
-    "frontend": "pnpm --filter frontend",
-    "backend": "pnpm --filter backend",
-    "common": "pnpm --filter common",
-    "validation": "pnpm --filter validation"
+    "frontend": "pnpm --filter frontend"
   },
   "keywords": [],
   "author": "",
